@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="msapplication-navbutton-color" content="#000000" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta
+      name="description"
+      content="Web application"
+    />
+    <!-- Preload critical assets -->
+    <link rel="preload" href="%PUBLIC_URL%/static/js/main.chunk.js" as="script" />
+    <link rel="preload" href="%PUBLIC_URL%/static/js/vendors~main.chunk.js" as="script" />
+    <!-- Preconnect to API domains if applicable -->
+    <link rel="preconnect" href="https://your-api-domain.com" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>My Application</title>
+    <!-- No reference to styles.css should be here -->
+    <!-- Add meta for content security policy -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' http://localhost:9000; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>

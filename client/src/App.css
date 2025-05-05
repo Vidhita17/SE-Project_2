@@ -1,0 +1,10 @@
+/* All styling is now handled by Tailwind classes */
+/* This file can be empty, but we're keeping minimal reset styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Any custom styling that cannot be handled by Tailwind can go here */
