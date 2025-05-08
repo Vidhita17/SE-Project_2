@@ -33,3 +33,4 @@ server/logs/
 server/coverage/
 server/uploads/*
 !server/uploads/.gitkeep
+.env
