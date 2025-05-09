@@ -18,7 +18,7 @@ A full-stack web application that allows students to apply for final-year academ
  Authentication & Authorization: Role-based login for students and faculty.
 
 Frontend
-React.js (with Tailwind CSS or Material UI)
+html,css,Javascript,postCSS,package management 
 
 Backend
 Node.js + Express.js
