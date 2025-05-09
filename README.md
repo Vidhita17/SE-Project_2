@@ -16,11 +16,15 @@ A full-stack web application that allows students to apply for final-year academ
 
 Frontend
 React.js (with Tailwind CSS or Material UI)
+
 Backend
 Node.js + Express.js
+
 Prisma ORM
+
 Database
 MongoDB
+
 Other Tools
 JWT for secure auth
 
