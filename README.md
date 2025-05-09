@@ -4,6 +4,8 @@ A full-stack web application that allows students to apply for final-year academ
 
 
 
+
+
 🚀 Features
 
 🔍 Live Project Listings: Students can view available projects in real-time.
@@ -29,6 +31,8 @@ MongoDB
 
 Other Tools
 JWT for secure auth
+
+
 
 
 
