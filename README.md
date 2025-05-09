@@ -2,6 +2,8 @@
 
 A full-stack web application that allows students to apply for final-year academic projects offered by faculty members. The platform streamlines project assignment, application tracking, and meeting scheduling between students and faculty.
 
+
+
 🚀 Features
 
 🔍 Live Project Listings: Students can view available projects in real-time.
@@ -27,6 +29,8 @@ MongoDB
 
 Other Tools
 JWT for secure auth
+
+
 
 🧑‍💻 Getting Started
 
