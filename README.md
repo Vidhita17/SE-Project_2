@@ -35,16 +35,27 @@ Node.js
 MongoDB
 Git
 1. Clone the Repository
+
 git clone https://github.com/Vidhita17/SE-Project-2.git
+
 cd SE-Project-2
+
 2. Install Dependencies
+
 npm install
+
 3. Setup Environment Variables
+   
 Create a .env file
+
 4. Setup Prisma and Migrate DB
+
 npx prisma generate
+
 npx prisma migrate dev --name init
+
 5. Run the App
+
 npm start
 
 
