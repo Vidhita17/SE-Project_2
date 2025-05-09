@@ -46,7 +46,6 @@ npx prisma generate
 npx prisma migrate dev --name init
 5. Run the App
 npm start
-Frontend runs on http://localhost:3000
 
 
 
