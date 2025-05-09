@@ -1,7 +1,9 @@
  Student Project Application Portal
+ 
 A web application that allows students to apply for final-year academic projects offered by faculty members. The platform streamlines project assignment, application tracking, and meeting scheduling between students and faculty.
 
  Features
+ 
 *  Live Project Listings: Students can view available projects in real-time.
 *  Project Application: Students can apply to projects directly from the portal.
 *  Faculty Approval: Faculty members can approve or reject student applications.
@@ -9,6 +11,7 @@ A web application that allows students to apply for final-year academic projects
 *  Authentication & Authorization: Role-based login for students an faculty.
 
  Tech Stack
+ 
 Frontend
 * React.js (with Tailwind CSS or Material UI)
 Backend
@@ -22,6 +25,7 @@ Other Tools
 * Google Calendar API (optional) for scheduling
 
  Getting Started
+ 
 Prerequisites
 * Node.js
 * MongoDB
