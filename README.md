@@ -8,15 +8,15 @@ A full-stack web application that allows students to apply for final-year academ
 
 🚀 Features
 
-🔍 Live Project Listings: Students can view available projects in real-time.
+ Live Project Listings: Students can view available projects in real-time.
 
-📝 Project Application: Students can apply to projects directly from the portal.
+ Project Application: Students can apply to projects directly from the portal.
 
-✅ Faculty Approval: Faculty members can approve or reject student applications.
+ Faculty Approval: Faculty members can approve or reject student applications.
 
-🗓️ Meeting Scheduler: Calendar system for students and faculty to plan meetings.
+ Meeting Scheduler: Calendar system for students and faculty to plan meetings.
 
-🔐 Authentication & Authorization: Role-based login for students and faculty.
+ Authentication & Authorization: Role-based login for students and faculty.
 
 Frontend
 React.js (with Tailwind CSS or Material UI)
