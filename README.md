@@ -5,7 +5,7 @@ A full-stack web application that allows students to apply for final-year academ
 
 
 
- Features
+Features
 
  Live Project Listings: Students can view available projects in real-time.
 
@@ -16,6 +16,9 @@ A full-stack web application that allows students to apply for final-year academ
  Meeting Scheduler: Calendar system for students and faculty to plan meetings.
 
  Authentication & Authorization: Role-based login for students and faculty.
+
+
+
 
 Frontend
 html,css,Javascript,postCSS,package management 
