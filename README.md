@@ -5,7 +5,7 @@ A full-stack web application that allows students to apply for final-year academ
 
 
 
-Features
+Features:
 
  Live Project Listings: Students can view available projects in real-time.
 
@@ -20,29 +20,37 @@ Features
 
 
 
-Frontend
+Frontend:
+
 html,css,Javascript,postCSS,package management 
 
-Backend
+Backend:
+
 Node.js + Express.js
 
 Prisma ORM
 
-Database
+Database:
+
 MongoDB
 
-Other Tools
+Other Tools:
+
 JWT for secure auth
 
 
 
 
-Getting Started
+Getting Started:
 
-Prerequisites
+Prerequisites:
+
 Node.js
+
 MongoDB
+
 Git
+
 1. Clone the Repository
 
 git clone https://github.com/Vidhita17/SE-Project-2.git
