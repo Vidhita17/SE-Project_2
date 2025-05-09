@@ -75,5 +75,5 @@ npx prisma migrate dev --name init
 
 npm start
 
-
+video url - https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22video5947502779.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-05-08T04%3A27%3A25.275Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fc9f41031b2fd4686%2Fvideo5947502779.mp4%3FExpires%3D1841372845%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D1buprjidEDkFmya9NgNAN8z4TugPH2-PoTM8CpfzZBPeLsUrsJYipDl5VKdiWMbb12wCs8b6NBEJfEzqwpS1BgFYSNIku7tV3sx5wzdhzbrxlNH4vpEiEjvkJUCP78qNfp5bFDYp0YkaDjY68NBmfuH~yTpJ7xhqaSn5qUtdRhlD0mA6Q9G6ZtFrmApcRiBc9BEBDMeSzIpblp8VicUCEogW4Tmp6x8Uq9gEgUVYRFIgIp4UXsKmiCtp0OvsZgpSJFSxYNQ6HU1L8dqCPvhR8gDs3w5xoCNUGoh33i8DxNPbFDs-SoOAt7lpQiohx-lrK10tZdXkHSGvLW89IxcWdg__%22%7D
 
